@@ -90,5 +90,10 @@
     }
     
 }
+@media screen and (max-width:767px) {
+    nav ul {
+        display: none;
+      }
+}
 
 
